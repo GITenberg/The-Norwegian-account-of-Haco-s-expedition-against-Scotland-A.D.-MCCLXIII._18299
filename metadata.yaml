@@ -1,0 +1,37 @@
+_repo: The-Norwegian-account-of-Haco-s-expedition-against-Scotland-A.D.-MCCLXIII._18299
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Johnstone, James
+    deathdate: 1798
+    gutenberg_agent_id: '38202'
+    url: http://www.gutenberg.org/2009/agents/38202
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sturla Þórðarson
+    alias: Thordarson, Sturla
+    birthdate: 1214
+    deathdate: 1284
+    gutenberg_agent_id: '7930'
+    url: http://www.gutenberg.org/2009/agents/7930
+    wikipedia: http://en.wikipedia.org/wiki/Sturla_%C3%9E%C3%B3r%C3%B0arson
+description: ''
+gutenberg_issued: '2006-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- History -- 1030-1397'
+- !lcsh 'Haakon IV Haakonsson, King of Norway, 1204-1263'
+- !lcsh 'Scotland -- History -- To 1603'
+- !lcsh 'Scandinavians'
+title: The Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII.
+url: http://www.gutenberg.org/ebooks/18299
