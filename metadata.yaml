@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7930
     wikipedia: http://en.wikipedia.org/wiki/Sturla_%C3%9E%C3%B3r%C3%B0arson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18299#The-Norwegian-account-of-Haco-s-expedition-against-Scotland-A.D.-MCCLXIII.
 gutenberg_issued: '2006-05-02'
 gutenberg_type: Text
 identifiers:
